@@ -41,20 +41,8 @@ Windows
 Recomendo usar WSL (Ubuntu) ou Git Bash. Caso contrário, use um ambiente Python para rodar o script (p.ex. Pythont IDLE / Pydroid no Android).
 
 
-
 ---
 
-Arquivos
-
-analyze_logs_full.py — script principal (executável Python).
-
-README.md — este arquivo.
-
-.gitignore — recomendado para evitar subir logs e caches.
-
-
-
----
 
 Como rodar (passo a passo)
 
